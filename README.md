@@ -12,5 +12,5 @@
   
 # I worked on this project to learn basics of Django.
 
-The Youtube Course Series:
+Course:
 https://www.youtube.com/playlist?list=PLXuv2PShkuHzrqh-_ZYuDcHZcoZfeAnad
