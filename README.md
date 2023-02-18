@@ -6,7 +6,7 @@
   * Write 'pip freeze' and you will see that you have only default Python libraries, you should install Django lib.
   * Write 'pip install Django==4.0.3'. You have installed Django lib in your venv successfully.
   * Go back to your directory and run your Django Project.
-* Write 'cd' .. and 'cd' .. again. Then 'cd blogapp' (to get in our django project).
+* Write 'cd ..' and 'cd ..' again to get back. Then 'cd blogapp' (to get in our django project).
 * Write 'python manage.py runserver' to run our project. It will display you a link which starts like 127.0...
 * Now we have reached our project!
   
