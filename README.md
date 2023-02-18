@@ -1,6 +1,6 @@
 # How it works?
 * After you download the 'django-ders-serisi-sadikturan' file, open it on VsCode.
-* The program will work on a Virtual Environment, that's why you should create a Virtual Environment next to created blogapp Django file.
+* The program will work on a Virtual Environment, that's why you should create a Virtual Environment in next to created blogapp Django file.
   * When you in 'django-ders-serisi-sadikturan' folder in Terminal, write 'python -m venv myenv' (optionally you can change the name of 'myenv')
   * Now you have a venv. You should active it: Go to myenv\Scripts and write './activate' . You are in a Virtual Environment now!
   * Write 'pip freeze' and you will see that you have only default Python libraries, you should install Django lib.
